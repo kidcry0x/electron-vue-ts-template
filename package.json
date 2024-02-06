@@ -10,10 +10,10 @@
     "build:mac": "node scripts/build.js && electron-builder --mac",
     "build:linux": "node scripts/build.js && electron-builder --linux"
   },
-  "repository": "https://github.com/deluze/electron-vue-template",
+  "repository": "https://github.com/kidcry0x/electron-vue-ts-template",
   "author": {
-    "name": "Deluze",
-    "url": "https://github.com/Deluze"
+    "name": "Minh Tran",
+    "url": "https://github.com/kidcry0x"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.3",
